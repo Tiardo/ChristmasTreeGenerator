@@ -53,5 +53,5 @@ const path = require('path');
                 .toThrowError("Количество этажей должно быть от 2х до 20.");
         });
     });
-// test Github Actions
+// test Github Actions #2
 });
