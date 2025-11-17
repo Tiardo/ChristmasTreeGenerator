@@ -1,0 +1,12 @@
+{
+  "name": "Christmas-tree-generator",
+  "version": "0.0.1",
+  "main": "generateTree.js",
+  "scripts": {
+    "test": "jest",
+    "start": "node generateTree.js"
+  },
+  "devDependencies": {
+    "jest": "^29.7.0"
+  }
+}
